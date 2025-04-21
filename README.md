@@ -6,9 +6,8 @@
   🚀 Passionate about <strong>Web Development</strong> && <strong> Cyber Security</strong> | 💻 B.Sc. CSIT Student | 🌐 Tech Enthusiast
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+🌍;I+am+a+Frontend+Developer!;React+%7C+JavaScript+%7C+TailwindCSS;&center=true&width=440&height=45&color=22A39F&vCenter=true&size=22" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+🌍;I+am+a+Frontend+Developer!;React+%7C+JavaScript+%7C+TailwindCSS;&center=true&width=440&height=45&color=22A39F&vCenter=true&size=22)
+
 
 
 ---

@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer+%26+React+%26+TypeScript;Full-Stack+Trainee+%26+Supabase;Responsive+Design+%26+Tailwind+%26+Bootstrap;&center=true&width=600&height=45&color=22A39F&vCenter=true&size=22" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer;Aspiring+Full-Stack+Engineer;React+and+TypeScript;State+Management+with+Zustand;Modern+UI+with+Tailwind+CSS;Building+APIs+with+Supabase;&center=true&width=600&height=45&color=0077B5&vCenter=true&size=22" alt="Professional Typing Animation"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 * **Current Focus:** Building scalable, data-driven applications, specializing in the **React** ecosystem.
 * **Skill Set:** Proficient in modular UI development with **Tailwind CSS** and state management using **Redux Toolkit**.
 * **Type Safety:** Experienced in writing robust, type-safe code using **TypeScript**.
-* **Learning & Growth:** Actively expanding into the full-stack domain, focusing on **Node.js & Express** and modern database integration.
+* **Learning & Growth:** Actively expanding into the full-stack domain, focusing on **Node.js & Express**, **Supabase** (PostgreSQL) and modern database integration.
 * **Domain Interest:** Combining expertise in Web Development with a foundational understanding of **Cyber Security** principles.
 
 ---
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Appwrite-FB542B?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite Badge"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -107,8 +107,10 @@ This project showcases: **API Integration (TMDB)**, **Client-Side State Persiste
   <h3>✨ View All My Repositories ✨</h3>
   <a href="https://github.com/sijanbroo?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/github/stars/sijanbroo?style=for-the-badge&logo=star" alt="GitHub Stars Badge" />
-    <img src="https://custom-icon-badges.demolab.com/github/repos-count/sijanbroo?style=for-the-badge&include_forks=false&logo=repo" alt="Repo Count" />
   </a>
+  <p>
+    <a href="https://github.com/sijanbroo?tab=repositories">**See All My Projects**</a>
+  </p>
   <p>Find more scripts, libraries, and open-source contributions.</p>
 </div>
 

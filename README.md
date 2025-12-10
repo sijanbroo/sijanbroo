@@ -1,6 +1,6 @@
 <!-- Profile README starts here -->
 
-div align="center">
+<div align="center">
   <h1>📂 SIJAN SHRESTHA | Frontend & Full-Stack Developer </h1>
   <p>🚀 B.Sc. CSIT Student and passionate builder focused on creating highly responsive, modern web applications.</p>
 </div>
@@ -8,7 +8,7 @@ div align="center">
 ---
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Frontend+Developer+%7C+React+%7C+TypeScript;Full-Stack+Trainee+%7C+Appwrite;Responsive+Design+%7C+Tailwind+%26+Bootstrap;&center=true&width=600&height=45&color=22A39F&vCenter=true&size=22)
+  <img src="https://readme-typing-svg.demolab.com?lines=Frontend+Developer+%26+React+%26+TypeScript;Full-Stack+Trainee+%26+Supabase;Responsive+Design+%26+Tailwind+%26+Bootstrap;&center=true&width=600&height=45&color=22A39F&vCenter=true&size=22" alt="Typing Animation"/>
 </p>
 
 ---

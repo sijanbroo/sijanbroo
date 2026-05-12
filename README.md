@@ -1,7 +1,7 @@
 <!-- Profile README starts here -->
 
 <div align="center">
-  <h1>📂 SIJAN SHRESTHA | Frontend & Full-Stack Developer </h1>
+  <h1>📂 SIJAN SHRESTHA | Full-Stack Developer </h1>
   <p>🚀 B.Sc. CSIT Student and passionate builder focused on creating highly responsive, modern web applications.</p>
 </div>
 
